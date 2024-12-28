@@ -1,4 +1,4 @@
-# PHÁT TRIỂN ỨNG DỤNG - BÀI TẬP LỚN NHÓM 5
+# PHÁT TRIỂN ỨNG DỤNG - BÀI TẬP LỚN NHÓM 5 [2023-2024]
 ## QUẢN LÝ ĐẶT BÀN TRONG NHÀ HÀNG
 
 | MSSV      | Họ Tên             | Ghi chú        |
